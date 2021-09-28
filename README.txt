@@ -5,7 +5,7 @@ Deep Learning Toolbox                                 Version 14.2        (R2021
 Image Processing Toolbox                              Version 11.3        (R2021a)
 Deep Learning Toolbox Converter for TensorFlow Models ***
 
-***This final tool box must be installed manually. If not installed the code will generate an error and you will not be propmted to install the toolbox.
+***This final tool can be installed here, but not from within MATLAB: https://uk.mathworks.com/matlabcentral/fileexchange/64649-deep-learning-toolbox-converter-for-tensorflow-models
 
 HOW TO USE:
 1. Open the 'run' file
